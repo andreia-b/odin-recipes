@@ -1,1 +1,2 @@
 # odin-recipes
+The "Odin-recipes" project represents the first practical approach to the HTML universe, where it will be possible to apply the previously acquired theoretical knowledge. From inserting images and links to other sources of information, formatting text with the introduction of paragraphs and highlighting of keywords, as well as the development of ordered or random listings, are some of the skills that will be demonstrated.
